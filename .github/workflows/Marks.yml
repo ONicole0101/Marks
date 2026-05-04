@@ -1,4 +1,4 @@
-name: 留意買Rpt
+name: 留意買股Rpt
 
 on:
   workflow_dispatch:
@@ -26,13 +26,13 @@ jobs:
           python -m pip install --upgrade pip
           pip install pandas requests jinja2 FinMind PyYAML loguru tqdm
 
-      - name: Prepare config for 留意買report
+      - name: Prepare config for 留意買股report
         run: |
           cat > config.py <<'PY'
-          REPORT_TYPE = "留意買"
+          REPORT_TYPE = "留意買股"
           CSV_FILE = "stocks.csv"
-          REPORT_TITLE = "(留意買)技術分析報告"
-          OUTPUT_FILE = "留意買"
+          REPORT_TITLE = "(留意買股)技術分析報告"
+          OUTPUT_FILE = "留意買股"
           STATIC_OUTPUT_FILE = "AllStatic.csv"
           PY
 
