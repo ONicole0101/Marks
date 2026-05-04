@@ -1,4 +1,4 @@
-name: 待留意買股Rpt
+name: 留意買Rpt
 
 on:
   workflow_dispatch:
@@ -26,13 +26,13 @@ jobs:
           python -m pip install --upgrade pip
           pip install pandas requests jinja2 FinMind PyYAML loguru tqdm
 
-      - name: Prepare config for 待留意買股report
+      - name: Prepare config for 留意買report
         run: |
           cat > config.py <<'PY'
-          REPORT_TYPE = "待留意買股"
+          REPORT_TYPE = "留意買"
           CSV_FILE = "stocks.csv"
-          REPORT_TITLE = "(待留意買股)技術分析報告"
-          OUTPUT_FILE = "待留意買股"
+          REPORT_TITLE = "(留意買)技術分析報告"
+          OUTPUT_FILE = "留意買"
           STATIC_OUTPUT_FILE = "AllStatic.csv"
           PY
 
@@ -52,7 +52,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add *.html config.py
-          git diff --cached --quiet || git commit -m "Update 待留意買股report"
+          git diff --cached --quiet || git commit -m "Update 留意買report"
 
       - name: Push changes
         run: |
