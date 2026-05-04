@@ -1,5 +1,5 @@
-REPORT_TYPE = "留意買"
+REPORT_TYPE = "留意買股"
 CSV_FILE = "stocks.csv"
-REPORT_TITLE = "(留意買)技術分析報告"
-OUTPUT_FILE = "留意買"
+REPORT_TITLE = "(留意買股)技術分析報告"
+OUTPUT_FILE = "留意買股"
 STATIC_OUTPUT_FILE = "AllStatic.csv"
