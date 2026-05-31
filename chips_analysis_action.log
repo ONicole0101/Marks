@@ -1,0 +1,77 @@
+[32m2026-05-31 15:52:28.586[0m | [1mINFO    [0m | [36mFinMind.data.finmind_api[0m:[36mlogin_by_token[0m:[36m85[0m - [1mLogin success[0m
+[32m2026-05-31 15:52:28.762[0m | [1mINFO    [0m | [36mFinMind.data.finmind_api[0m:[36mlogin_by_token[0m:[36m85[0m - [1mLogin success[0m
+FinMind: token=True, login=ok, usage=3608/6000, remain=2392
+Build chips: total=9, workers=6, trend_days=3, threshold=15, lookback_days=21, output=AllStatic_Chip.csv
+🔄 chip analysis response status: 200
+🔎 chip analysis request: dataset=TaiwanStockTradingDailyReport stock_id=8996 date=2026-05-18 token_present=True
+🔄 chip analysis response status: 200
+🔎 chip analysis request: dataset=TaiwanStockTradingDailyReport stock_id=7717 date=2026-05-21 token_present=True
+🔄 chip analysis response status: 200
+🔎 chip analysis request: dataset=TaiwanStockTradingDailyReport stock_id=6805 date=2026-05-23 token_present=True
+🔄 chip analysis response status: 200
+🔎 chip analysis request: dataset=TaiwanStockTradingDailyReport stock_id=8996 date=2026-05-19 token_present=True
+🔄 chip analysis response status: 200
+🔎 chip analysis request: dataset=TaiwanStockTradingDailyReport stock_id=7717 date=2026-05-22 token_present=True
+🔄 chip analysis response status: 200
+🔎 chip analysis request: dataset=TaiwanStockTradingDailyReport stock_id=6805 date=2026-05-24 token_present=True
+🔄 chip analysis response status: 200
+🔎 chip analysis request: dataset=TaiwanStockTradingDailyReport stock_id=8996 date=2026-05-20 token_present=True
+🔄 chip analysis response status: 200
+🔎 chip analysis request: dataset=TaiwanStockTradingDailyReport stock_id=7717 date=2026-05-23 token_present=True
+🔄 chip analysis response status: 200
+🔎 chip analysis request: dataset=TaiwanStockTradingDailyReport stock_id=6805 date=2026-05-25 token_present=True
+🔄 chip analysis response status: 200
+🔎 chip analysis request: dataset=TaiwanStockTradingDailyReport stock_id=7717 date=2026-05-24 token_present=True
+🔄 chip analysis response status: 200
+🔎 chip analysis request: dataset=TaiwanStockTradingDailyReport stock_id=8996 date=2026-05-21 token_present=True
+🔄 chip analysis response status: 200
+🔎 chip analysis request: dataset=TaiwanStockTradingDailyReport stock_id=6805 date=2026-05-26 token_present=True
+🔄 chip analysis response status: 200
+🔎 chip analysis request: dataset=TaiwanStockTradingDailyReport stock_id=7717 date=2026-05-25 token_present=True
+🔄 chip analysis response status: 200
+🔎 chip analysis request: dataset=TaiwanStockTradingDailyReport stock_id=8996 date=2026-05-22 token_present=True
+🔄 chip analysis response status: 200
+🔎 chip analysis request: dataset=TaiwanStockTradingDailyReport stock_id=7717 date=2026-05-26 token_present=True
+🔄 chip analysis response status: 200
+🔎 chip analysis request: dataset=TaiwanStockTradingDailyReport stock_id=6805 date=2026-05-27 token_present=True
+🔄 chip analysis response status: 200
+🔎 chip analysis request: dataset=TaiwanStockTradingDailyReport stock_id=8996 date=2026-05-23 token_present=True
+🔄 chip analysis response status: 200
+🔎 chip analysis request: dataset=TaiwanStockTradingDailyReport stock_id=7717 date=2026-05-27 token_present=True
+🔄 chip analysis response status: 200
+🔎 chip analysis request: dataset=TaiwanStockTradingDailyReport stock_id=8996 date=2026-05-24 token_present=True
+🔄 chip analysis response status: 200
+🔎 chip analysis request: dataset=TaiwanStockTradingDailyReport stock_id=6805 date=2026-05-28 token_present=True
+🔄 chip analysis response status: 200
+🔎 chip analysis request: dataset=TaiwanStockTradingDailyReport stock_id=8996 date=2026-05-25 token_present=True
+🔄 chip analysis response status: 200
+🔎 chip analysis request: dataset=TaiwanStockTradingDailyReport stock_id=7717 date=2026-05-28 token_present=True
+🔄 chip analysis response status: 200
+🔎 chip analysis request: dataset=TaiwanStockTradingDailyReport stock_id=6805 date=2026-05-29 token_present=True
+🔄 chip analysis response status: 200
+🔎 chip analysis request: dataset=TaiwanStockTradingDailyReport stock_id=8996 date=2026-05-26 token_present=True
+🔄 chip analysis response status: 200
+🔎 chip analysis request: dataset=TaiwanStockTradingDailyReport stock_id=7717 date=2026-05-29 token_present=True
+🔄 chip analysis response status: 200
+🔎 chip analysis request: dataset=TaiwanStockTradingDailyReport stock_id=7717 date=2026-05-30 token_present=True
+🔄 chip analysis response status: 200
+🔎 chip analysis request: dataset=TaiwanStockTradingDailyReport stock_id=6805 date=2026-05-30 token_present=True
+🔄 chip analysis response status: 200
+🔎 chip analysis request: dataset=TaiwanStockTradingDailyReport stock_id=8996 date=2026-05-27 token_present=True
+🔄 chip analysis response status: 200
+🔎 chip analysis request: dataset=TaiwanStockTradingDailyReport stock_id=7717 date=2026-05-31 token_present=True
+🔄 chip analysis response status: 200
+🔎 chip analysis request: dataset=TaiwanStockTradingDailyReport stock_id=6805 date=2026-05-31 token_present=True
+🔄 chip analysis response status: 200
+stock_id    name chip_latest_date main_force_net broker_diff   chip_signal_state chips_status
+    2313      華通              NaN       11251641          -3             neutral           ok
+    2449    京元電子              NaN        2705238           0             neutral           ok
+    3645      達邁              NaN        -270317          82             neutral           ok
+    3665   貿聯-KY              NaN        -196000         162 bearish_distributed           ok
+    6510      精測              NaN         -85942         383             neutral           ok
+    6691    洋基工程              NaN          13102          52             neutral           ok
+    6805     富世達              NaN         381636        -148             neutral           ok
+    7717 萊德光電-KY              NaN         139496        -107             neutral           ok
+    8996      高力              NaN        -129152         156 bearish_distributed           ok
+rows= 9
+status= {'ok': 9}
