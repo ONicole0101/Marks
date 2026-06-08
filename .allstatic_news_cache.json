@@ -1,0 +1,50 @@
+{
+  "2313": {
+    "name": "華通",
+    "news_titles_hash": "18472ab68b796dfca2f5eb8340e6cf3032963019d934dbb67328d726367492c2",
+    "status": "ai/industry_news_refresh",
+    "updated_at": "2026-06-08 20:14:09"
+  },
+  "2449": {
+    "name": "京元電子",
+    "news_titles_hash": "2a866a236770f24752be55c5ab7f008e58c7b98b12f8e2db0cb7fe714ee63b86",
+    "status": "ai/industry_news_refresh",
+    "updated_at": "2026-06-08 20:14:13"
+  },
+  "3645": {
+    "name": "達邁",
+    "news_titles_hash": "ad7e3bd77ecd68f16abc52e2b4d0623559b549f866ca427ff06818c8838a30c7",
+    "status": "ai/industry_news_refresh",
+    "updated_at": "2026-06-08 20:14:17"
+  },
+  "3665": {
+    "name": "貿聯-KY",
+    "news_titles_hash": "6ffb60934b33a98863e795f361e4e30cd85417e86c3e6ea4d75393277a1cebe7",
+    "status": "ai/industry_news_refresh",
+    "updated_at": "2026-06-08 20:14:22"
+  },
+  "6691": {
+    "name": "洋基工程",
+    "news_titles_hash": "db7c9adbf3e5cbdbcb951762774162b2de22eba57d7457aa6bfd7f29a56171dc",
+    "status": "ai/industry_news_refresh",
+    "updated_at": "2026-06-08 20:14:26"
+  },
+  "6805": {
+    "name": "富世達",
+    "news_titles_hash": "da1807ee82c5ee6a7a8654d95e4ba35eb4051f0a44a41a4ff7d51096f3dca02d",
+    "status": "ai/industry_news_refresh",
+    "updated_at": "2026-06-08 20:14:30"
+  },
+  "7717": {
+    "name": "萊德光電-KY",
+    "news_titles_hash": "72aefa995eadd852aa86d2014fc0a16c80cf5e3d63c7086e4ff475ddb9ccb018",
+    "status": "ai/industry_news_refresh",
+    "updated_at": "2026-06-08 20:14:37"
+  },
+  "8996": {
+    "name": "高力",
+    "news_titles_hash": "1a3ff402477278e4bf23e9133ca08e051c5400270ad5f52ed6ec469ff1566f7b",
+    "status": "ai/industry_news_refresh",
+    "updated_at": "2026-06-08 20:14:41"
+  }
+}
