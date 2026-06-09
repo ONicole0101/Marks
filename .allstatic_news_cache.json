@@ -1,50 +1,50 @@
 {
   "2313": {
     "name": "華通",
-    "news_titles_hash": "18472ab68b796dfca2f5eb8340e6cf3032963019d934dbb67328d726367492c2",
+    "news_titles_hash": "df5a9bb02cf197cba3db039e08b8807cdb13437e70bdb4076e76beae58558c25",
     "status": "ai/industry_news_refresh",
-    "updated_at": "2026-06-08 20:14:09"
+    "updated_at": "2026-06-09 18:45:26"
   },
   "2449": {
     "name": "京元電子",
     "news_titles_hash": "2a866a236770f24752be55c5ab7f008e58c7b98b12f8e2db0cb7fe714ee63b86",
     "status": "ai/industry_news_refresh",
-    "updated_at": "2026-06-08 20:14:13"
+    "updated_at": "2026-06-09 18:45:30"
   },
   "3645": {
     "name": "達邁",
-    "news_titles_hash": "ad7e3bd77ecd68f16abc52e2b4d0623559b549f866ca427ff06818c8838a30c7",
+    "news_titles_hash": "95ac967292373c8ff697f134a8304512627b4cd742498e980f2313e0dbcdf4e5",
     "status": "ai/industry_news_refresh",
-    "updated_at": "2026-06-08 20:14:17"
+    "updated_at": "2026-06-09 18:45:33"
   },
   "3665": {
     "name": "貿聯-KY",
-    "news_titles_hash": "6ffb60934b33a98863e795f361e4e30cd85417e86c3e6ea4d75393277a1cebe7",
+    "news_titles_hash": "902a2e6eb9b7e47171eb12897d97f348fbc6c8557c545016b99c01bf6c9329f2",
     "status": "ai/industry_news_refresh",
-    "updated_at": "2026-06-08 20:14:22"
+    "updated_at": "2026-06-09 18:45:37"
   },
   "6691": {
     "name": "洋基工程",
-    "news_titles_hash": "db7c9adbf3e5cbdbcb951762774162b2de22eba57d7457aa6bfd7f29a56171dc",
+    "news_titles_hash": "0007a774b4a01c80c95b44b8fd97cfb7bf93f10be0ac8cb9cf760fbc05f14547",
     "status": "ai/industry_news_refresh",
-    "updated_at": "2026-06-08 20:14:26"
+    "updated_at": "2026-06-09 18:45:42"
   },
   "6805": {
     "name": "富世達",
     "news_titles_hash": "da1807ee82c5ee6a7a8654d95e4ba35eb4051f0a44a41a4ff7d51096f3dca02d",
     "status": "ai/industry_news_refresh",
-    "updated_at": "2026-06-08 20:14:30"
+    "updated_at": "2026-06-09 18:45:50"
   },
   "7717": {
     "name": "萊德光電-KY",
-    "news_titles_hash": "72aefa995eadd852aa86d2014fc0a16c80cf5e3d63c7086e4ff475ddb9ccb018",
+    "news_titles_hash": "26ebd455df1e90b82933606e37f7611e91b0d6e7b7c2b2284fb1b2ad974d6efe",
     "status": "ai/industry_news_refresh",
-    "updated_at": "2026-06-08 20:14:37"
+    "updated_at": "2026-06-09 18:45:54"
   },
   "8996": {
     "name": "高力",
-    "news_titles_hash": "1a3ff402477278e4bf23e9133ca08e051c5400270ad5f52ed6ec469ff1566f7b",
+    "news_titles_hash": "3b956aaf3caefc1f3896f1f726bcf67caaab777b6b7b4ddebd2f4f78d78e7cb5",
     "status": "ai/industry_news_refresh",
-    "updated_at": "2026-06-08 20:14:41"
+    "updated_at": "2026-06-09 18:45:58"
   }
 }
