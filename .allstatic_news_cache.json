@@ -1,50 +1,50 @@
 {
   "2313": {
     "name": "華通",
-    "news_titles_hash": "4c259182f025616234ff6c691c129d5676873b87355fd61c265927f45dbc0284",
+    "news_titles_hash": "5d4443c434d41279e17e4c424070e23c16cc2cffb084267a93ed8acefc960c08",
     "status": "ai/industry_news_refresh",
-    "updated_at": "2026-06-10 19:08:38"
+    "updated_at": "2026-06-11 19:54:38"
   },
   "2449": {
     "name": "京元電子",
     "news_titles_hash": "2a866a236770f24752be55c5ab7f008e58c7b98b12f8e2db0cb7fe714ee63b86",
     "status": "ai/industry_news_refresh",
-    "updated_at": "2026-06-10 19:08:41"
+    "updated_at": "2026-06-11 19:54:42"
   },
   "3645": {
     "name": "達邁",
-    "news_titles_hash": "95ac967292373c8ff697f134a8304512627b4cd742498e980f2313e0dbcdf4e5",
+    "news_titles_hash": "6476e200ec761e25bba298084fc59933b1f7fb9dae80e9d1fe4f04c8c2f32e6e",
     "status": "ai/industry_news_refresh",
-    "updated_at": "2026-06-10 19:08:46"
+    "updated_at": "2026-06-11 19:54:46"
   },
   "3665": {
     "name": "貿聯-KY",
-    "news_titles_hash": "172400bf91626beedf92f057a1e55c844dd1a672ab11e21bc6661967730ee05e",
+    "news_titles_hash": "9ccaf76e2cff18a88da9e9e8bbaa57271a1d411a8f7d2e80fb9616484396f2df",
     "status": "ai/industry_news_refresh",
-    "updated_at": "2026-06-10 19:08:49"
+    "updated_at": "2026-06-11 19:54:50"
   },
   "6691": {
     "name": "洋基工程",
-    "news_titles_hash": "800fa8b6db29ce938348cdff2b62a16b5cebcdbac30df12baa761d31eb1176ac",
+    "news_titles_hash": "97a43b14c96b7e56e7dc475b621f30e4f74b81b8203ec406b2e128639f8cf5ca",
     "status": "ai/industry_news_refresh",
-    "updated_at": "2026-06-10 19:08:52"
+    "updated_at": "2026-06-11 19:54:53"
   },
   "6805": {
     "name": "富世達",
-    "news_titles_hash": "bbba4e3587dfd1d3e7266acf3f2ff1d6ba601a44305ac4b7fc9dc278653a1bb7",
+    "news_titles_hash": "09768e366dad68666cb13110dd518f2f4464c3ffc998a65a9e6dba07f52326e3",
     "status": "ai/industry_news_refresh",
-    "updated_at": "2026-06-10 19:08:58"
+    "updated_at": "2026-06-11 19:54:57"
   },
   "7717": {
     "name": "萊德光電-KY",
-    "news_titles_hash": "3aa664a448d6c3f74477ae07a6ec46d3f5593caf5dff99bf446fc4121a4c35e1",
+    "news_titles_hash": "31656f04efbce2a0be7294df87cbc684ce09c2646589377649bb330857ef6d96",
     "status": "ai/industry_news_refresh",
-    "updated_at": "2026-06-10 19:09:02"
+    "updated_at": "2026-06-11 19:55:00"
   },
   "8996": {
     "name": "高力",
-    "news_titles_hash": "0520f9115fc040c48c36abc8cec99d47ac7eab70b5cc8264e89f3d1ceee76957",
+    "news_titles_hash": "c52c3db9697eb9694c3168b5eb71ed6d3bdfb38633a0ed8cf69cf34d1ce43746",
     "status": "ai/industry_news_refresh",
-    "updated_at": "2026-06-10 19:09:07"
+    "updated_at": "2026-06-11 19:55:03"
   }
 }
